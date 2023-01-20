@@ -1,0 +1,38 @@
+.quadrado{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: lightgray;
+    margin: 15px;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+
+
+}
+
+body{
+    background-image: url(imagens/wallpaper002.jpg);
+    background-size: 100px 100px;
+
+
+}
+
+div#q1{
+   background-color: skyblue;
+}
+
+#q2{
+    background-image: linear-gradient(to bottom, yellow, red);
+
+}
+
+#q3{
+    background-image: url(imagens/pattern003.png);
+
+
+}
